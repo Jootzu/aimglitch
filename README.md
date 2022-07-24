@@ -61,7 +61,7 @@ https://user-images.githubusercontent.com/89702597/180638187-6cdebabe-6b7d-47b3-
 
 
 
-[V][LEFT_MOUSE to activate] : 
+**[V][LEFT_MOUSE to activate] :** 
 Première personne/first person : 
 
 

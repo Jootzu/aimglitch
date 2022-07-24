@@ -13,6 +13,7 @@ EN : Troll program created to reproduce and imitate the moves/FOV that some chea
 Join the steam group if you are interested ! : https://steamcommunity.com/groups/aimglitch
 
 Touche et leurs fonctionnalités/Keys and their features : 
+
 [W] : 
 Première personne/first person : 
 
@@ -28,7 +29,7 @@ https://user-images.githubusercontent.com/89702597/180638147-48822b05-7b80-4ace-
 
 
 
-[x] : 
+[X] : 
 Première personne/first person : 
 
 

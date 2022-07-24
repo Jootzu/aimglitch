@@ -1,4 +1,4 @@
-                                                                  # AIMGLITCH 
+                                                   # AIMGLITCH 
 
 
 FR : Programme "troll" crée pour reproduire et imiter les mouvements/FOV que proposent certaines fonctionnalité de logiciel de triche (voir vidéos ci-dessous). 
@@ -15,7 +15,7 @@ EN : Troll program created to reproduce and imitate the moves/FOV that some chea
 
 
 
-/*******************************************************************************************************************************************\
+/**************************************************************************************************************************************\
 Touche et leurs fonctionnalités/Keys and their features : 
 
 [W] : 
@@ -74,4 +74,4 @@ Troisième personne/third person:
 https://user-images.githubusercontent.com/89702597/180638195-dfc3cbbd-65a1-4c1a-9631-0af10a3fe9ea.mp4
 
 
-/*******************************************************************************************************************************************\
+/**************************************************************************************************************************************\

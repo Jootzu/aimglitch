@@ -1,3 +1,6 @@
+                                                                  # AIMGLITCH 
+
+
 FR : Programme "troll" crée pour reproduire et imiter les mouvements/FOV que proposent certaines fonctionnalité de logiciel de triche (voir vidéos ci-dessous). 
 /!\ aimglitch ne peut pas faire l'objet d'un ban de votre compte étant donné qu'aucune valeur (csgo ou autre fps) n'est lue ou écrite dans la mémoire du jeu. C'est simplement pour le fun et le troll. 
 

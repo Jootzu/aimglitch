@@ -26,8 +26,8 @@ int randomval() { // la fonction randomval de type int retournant une valeur fin
 
     int k = random() % 2; // k aléatoire compris entre 0 et 1
 
-    if (k == 0) y = 20000; // si k génère un entier égal à 0, y prend la valeur 20000
-    if (k == 1) y = -20000; // si k génère un entier égal à 1, y prend la valeur -20000
+    if (k == 0) y = 50000; // si k génère un entier égal à 0, y prend la valeur 20000
+    if (k == 1) y = -50000; // si k génère un entier égal à 1, y prend la valeur -20000
 
     return y; // retour d'entier utilisé par input.mi.dy
 }

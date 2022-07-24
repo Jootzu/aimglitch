@@ -11,6 +11,12 @@ EN : Troll program created to reproduce and imitate the moves/FOV that some chea
 /!\ You will not be banned if you use aimglitch because no value (csgo or other fps) is read or written in the game memory by the program. This is just for fun and trolling. 
 
 Join the steam group if you are interested ! : https://steamcommunity.com/groups/aimglitch
+Télécharger/Download : https://github.com/DalasK/aimglitch/blob/main/aimglitch/Release/aimglitch.exe
+
+Code source/Source Code : https://github.com/DalasK/aimglitch/blob/main/aimglitch/aimglitch/aimglitch.cpp
+
+
+
 
 Touche et leurs fonctionnalités/Keys and their features : 
 

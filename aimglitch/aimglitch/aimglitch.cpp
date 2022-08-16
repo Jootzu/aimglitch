@@ -93,7 +93,7 @@ int main() {
 
     HWND hwnd = GetConsoleWindow(); // contexte périphérique (la console du programme) 
     MoveWindow(hwnd, 0, 0, 610, 330, TRUE); // position en haut à gauche de l'écran (610 px de largeur et 330 px de hauteur) 
-    SetWindowTextW(hwnd, L"aimglitch"); // Titre de la fenêtre
+    SetWindowTextW(hwnd, L"aimglitch by Jootzu/Ulysse"); // Titre de la fenêtre
 
     // Présentation avec différentes couleurs de texte
     SetConsoleTextAttribute(GetStdHandle(STD_OUTPUT_HANDLE), 30); // (texte blanc surligné de bleu)
